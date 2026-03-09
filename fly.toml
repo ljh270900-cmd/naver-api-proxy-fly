@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for naver-api-proxy-fly on 2026-03-09T05:59:27Z
+# fly.toml app configuration file generated for naver-api-proxy-fly-k2vaia on 2026-03-09T10:24:28Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'naver-api-proxy-fly'
+app = 'naver-api-proxy-fly-k2vaia'
 primary_region = 'nrt'
 
 [build]
